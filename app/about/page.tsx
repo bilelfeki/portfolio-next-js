@@ -1,7 +1,7 @@
-import Profile from "./profile";
+import About from "./profile";
 
 export default function ProfilePage(){
     return(
-        <Profile/>
+        <About/>
     )
 }

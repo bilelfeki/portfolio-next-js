@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import Button from '../shared/button';
 
-const Profile = () => {
+const About = () => {
   return (
     <>
     <div className="flex justify-end px-4 pt-4 m-4">
@@ -76,4 +76,4 @@ const Profile = () => {
       
   );
 };
-export default Profile;
+export default About;

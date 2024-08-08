@@ -1,3 +1,3 @@
-export default function SecondBlog(){
+export default function Blog(){
     return (<>second page</>)
 }
