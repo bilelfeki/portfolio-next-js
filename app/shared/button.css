@@ -1,0 +1,12 @@
+.btn {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    width: 147px;
+    height: 46px;
+    @apply rounded-full  text-black text-white;
+}
+.btn:hover {
+    @apply bg-white text-black
+}
