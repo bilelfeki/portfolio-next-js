@@ -1,5 +1,4 @@
 import Image from 'next/image'
-import Button from '../shared/button';
 
 const About = () => {
   return (
